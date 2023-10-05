@@ -2,6 +2,9 @@
 	"ignorePatterns": [
 		{
 			"pattern": "^https://www.glassdoor.com"
+		},
+		{
+			"pattern": "^https://support.cloudbees.com/hc/en-us"
 		}
 	]
 }
